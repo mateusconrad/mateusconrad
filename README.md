@@ -10,19 +10,11 @@
     <img src="https://komarev.com/ghpvc/?username=mateusconrad&style=for-the-badge&color=orange" alt="Profile View Badge"/>
   </a>
   <br>
-  <a href="https://t.me/mateusconrad">
-    <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-   <a href="https://join.skype.com/invite/rI5pLf9YIvTA">
-    <img src="https://img.shields.io/badge/Skype-00AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype Badge"/>
-  </a>
 </div>
 </div>
 <!--
 **mateusconrad/mateusconrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
