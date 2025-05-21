@@ -10,6 +10,10 @@
   <br>
 </div>
 </div>
+
+- 🔭 I’m currently using a private gitlab host. That's why I got no Activities around here.
+- ⚡ I work as a C# Fullstack developer, using EF and Nhibernate, but also a great user of sql in Postgres and Sybase.
+ 
 <!--
 **mateusconrad/mateusconrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
