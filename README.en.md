@@ -6,7 +6,7 @@ Full-stack developer since 2019, currently a software developer at **CI&T**. Bef
 
 ## What I do
 
-- Back-end and front-end development in **C# / .NET**, with **PostgreSQL**
+- Back-end and front-end development in **C# / .NET**, with **PostgreSQL** and **SQL Server**
 - Projects structured with **Clean Architecture**
 - Persistence with **NHibernate / FluentNHibernate** and **EF Core**
 - Real time with **SignalR**, containers with **Docker** and pipelines on **GitLab CI/CD**

@@ -6,7 +6,7 @@ Desenvolvedor full-stack desde 2019, hoje desenvolvedor de software na **CI&T**.
 
 ## O que faço hoje
 
-- Desenvolvo back-end e front-end em **C# / .NET**, com **PostgreSQL**
+- Desenvolvo back-end e front-end em **C# / .NET**, com **PostgreSQL** e **SQL Server**
 - Organizo os projetos com **Clean Architecture**
 - Persistência com **NHibernate / FluentNHibernate** e **EF Core**
 - Tempo real com **SignalR**, conteinerização com **Docker** e pipelines no **GitLab CI/CD**
